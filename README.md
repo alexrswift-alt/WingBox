@@ -87,10 +87,10 @@ We drew the schematics onto the card then cut out the desired shapes. After that
 <h2> Report </h2>
 
  <p align="center">
-  <img src="Report/Report1.png" width="600"
+  <img src="Report/Report1.png" width="800"
 </p>
 
 
  <p align="center">
-  <img src="Report/Report2.png" width="600">
+  <img src="Report/Report2.png" width="800">
 </p>
