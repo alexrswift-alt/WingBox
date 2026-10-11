@@ -60,6 +60,11 @@ sheet components.
 - ADBT-R-16 The structure shall be constructed and tested in a typical indoor laboratory and
 workshop environment.
 
+ <p align="center">
+  <img src="Images/Figure1.png" width="600">
+  <br>
+  <em> Figure 1 </em>
+</p>
 
 
 
