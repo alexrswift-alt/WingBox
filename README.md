@@ -67,6 +67,18 @@ workshop environment.
 </p>
 
 
-# Report 
+<h2> Construction </h2>
 
+Each group was in charge of making a diffrent aspect of the wing. The groups were:
 
+- Upper Skins and Stringers
+
+- Lower Skins and Stringers
+
+- Ribs
+
+- Spars
+
+I was in charge of making the upper skin and the stringers, our group managed to design and construct our part with little effort which allowed us to join and help the other groups. Team communication was also essential as each individuals measurements had to match so the whole wing would fit together. 
+
+We drew the schematics onto the card then cut out the desired shapes. After that we riveted the skin and stringers together, then assembled the whole wing once each team had completed their respective roles. 
